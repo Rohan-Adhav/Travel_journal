@@ -10,7 +10,7 @@
 A sleek and responsive travel journal app built with **React + Vite**, showcasing curated travel destinations with images, descriptions, and Google Maps integration.
 
 📁 **Repo:** [Travel_journal](https://github.com/Rohan-Adhav/Travel_journal.git)  
-🌐 **Live Demo:** [travel-journal-seven-neon.vercel.app](https://travel-journal-seven-neon.vercel.app/)  
+🌐 **Live Demo:** [Travel_journal](https://travel-journal-rohan.vercel.app/)  
 🛠️ **Tech Stack:** React, Vite, JavaScript, CSS
 
 ---
