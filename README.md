@@ -1,12 +1,43 @@
-# React + Vite
+# 🌍 Travel Journal
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" />
+</p>
 
-Currently, two official plugins are available:
+A sleek and responsive travel journal app built with **React + Vite**, showcasing curated travel destinations with images, descriptions, and Google Maps integration.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+📁 **Repo:** [Travel_journal](https://github.com/Rohan-Adhav/Travel_journal.git)  
+🌐 **Live Demo:** [travel-journal-seven-neon.vercel.app](https://travel-journal-seven-neon.vercel.app/)  
+🛠️ **Tech Stack:** React, Vite, JavaScript, CSS
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Features
+
+- 🗺️ Destination cards with images and descriptions  
+- 📍 Google Maps links for each location  
+- 🎨 Responsive layout and clean design  
+- ⚡ Fast performance with Vite  
+- 🧰 Modular component structure
+
+---
+
+## 📸 Preview
+
+<p align="center">
+  <img src="./travel-journal-ui.png" alt="Travel Journal UI" width="700"/>
+</p>
+
+
+---
+
+## 📦 Installation
+
+```bash
+git clone https://github.com/Rohan-Adhav/Travel_journal.git
+cd Travel_journal
+npm install
+npm run dev
